@@ -1,6 +1,6 @@
 # Binance Trader (RC 2) 
 [![Build Status](https://img.shields.io/badge/binance-exchange-yellow.svg?style=flat)](https://binance.com)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 This is an experimental bot for auto trading the binance.com exchange.
 
