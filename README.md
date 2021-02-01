@@ -4,7 +4,7 @@
 
 This is an experimental bot for auto trading the binance.com exchange.
 
-![Screenshot](https://github.com/paulgg-code/binance-trader/blob/master/img/screenshot.png)
+![Screenshot](https://github.com/paulgg-code/binancebot/blob/master/img/screenshot.png)
 
 ## Configuration
 
